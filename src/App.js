@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Сайт на разработке
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/robomix_04_ftc_kz?utm_source=ig_web_button_share_sheet&igsh=OGQ5ZDc2ODk2ZA=="
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Мы в инстаграмме
         </a>
       </header>
     </div>
